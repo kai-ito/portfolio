@@ -71,7 +71,14 @@
         width: 11vw;
     }
 }
-
+@media(max-width:620px){
+    .pc{
+        display:none;
+    }
+    .sumart{
+        display:block;
+    }
+}
 @media(max-width:556px){
     .skills-content{
         width: 100%;
