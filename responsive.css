@@ -1,0 +1,85 @@
+/**スマホ730**/
+@media(max-width:1114px){
+    .skills-Expla p{
+        width: 100%;
+    }
+}
+@media(max-width:1075px){
+    .skills-content{
+        width: 33%;
+    }
+    .skill-icon{
+        font-size: 11vw;
+    }
+    .skill-icon img{
+        width: 9vw;
+    }
+}
+@media(max-width:948px){
+    .head-right ul{
+        display: none;
+    }
+}
+@media(max-width:845px){
+    .pro-left{
+        width: 100%;
+        float: none;
+        position: static;
+    }
+    .icon{
+        width: 90%;
+        margin: 0 5%;
+    }
+    .icon-photo{
+        position: static;
+        width: 40%;
+        float: left;
+        margin: 0 5%;
+    }
+    .icon-stamp{
+        position: static;
+        width: 40%;
+        float: left;
+        margin: 0 5%;
+    }
+    .pro-right{
+        width: 100%;
+        float: none;
+    }
+    .first-text{
+        margin: 0;
+    }
+
+    .twitter a{
+    font-size: 12vw;
+    }
+    .insta a{
+    font-size: 12vw;
+    }
+    .youtube a{
+    font-size: 12vw;
+    }
+}
+@media(max-width:662px){
+    .skills-content{
+        width: 50%;
+    }
+    .skill-icon{
+        font-size: 13vw;
+    }
+    .skill-icon img{
+        width: 11vw;
+    }
+}
+
+@media(max-width:556px){
+    .skills-content{
+        width: 100%;
+    }
+    .skill-icon{
+        font-size: 20vw;
+    }
+    .skill-icon img{
+        width: 18vw;
+    }
+}
