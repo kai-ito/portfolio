@@ -41,7 +41,9 @@ header{
 
     box-shadow: 0 10px 10px rgba(0,0,0,0.4);
 }
-
+.sumart{
+    display: none;
+}
 .head-left{
     font-size: xx-large;
     line-height: 65px;
